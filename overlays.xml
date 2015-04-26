@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+    <name>bitmaskG</name>
+    <description>bitmaskG overlay</description>
+    <homepage>https://github.com/1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS/bitmaskg</homepage>
+    <owner type="project">
+        <email>1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS@openmailbox.org</email>
+    </owner>
+    <source type="git">https://github.com/1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS/bitmaskg.git</source>
+</repo>
+</repositories>
