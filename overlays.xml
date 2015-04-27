@@ -3,11 +3,12 @@
 <repositories xmlns="" version="1.0">
 <repo quality="experimental" status="unofficial">
     <name>bitmaskG</name>
-    <description>bitmaskG overlay</description>
+    <description>bitmask overlay gentoo</description>
     <homepage>https://github.com/1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS/bitmaskg</homepage>
     <owner type="project">
         <email>1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS@openmailbox.org</email>
     </owner>
     <source type="git">https://github.com/1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS/bitmaskg.git</source>
+    <feed>https://github.com/1QGDzEaM4PLVUDU9QreJyaHAtpUZEKfUXS/bitmaskg/commits/master.atom</feed>
 </repo>
 </repositories>
